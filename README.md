@@ -1,4 +1,4 @@
-# BESD-Week8
+# BESD-Week-8
 Back End Software Development - Relational Databases with MySQL Week 8 Coding Assignment
 
 Coding Steps:
@@ -8,6 +8,6 @@ Write queries to address the following business needs.
   3. How much money was spent on salary for the marketing department between the years 1990 and 1992?
 
 URL to GitHub Repository:
-https://github.com/jprengaman/BESD-Week8
+https://github.com/jprengaman/BESD-Week-8
 
 
